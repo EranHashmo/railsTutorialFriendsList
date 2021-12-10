@@ -1,25 +1,5 @@
-# README
+Ruby on Rails tutorial by John Elder from codemy.com
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Link: https://www.youtube.com/watch?v=fmyvWz5TUWg&t=8802s&ab_channel=freeCodeCamp.org 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# railsTutorialFriendsList
+Thanks to John
